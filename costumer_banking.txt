@@ -1,1 +1,0 @@
-account number       card details   phonenumber      branch
